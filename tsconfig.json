@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "module": "es6",
+    "moduleResolution": "node",
+    "strict": true,
+    "target": "es6"
+  }
+}
